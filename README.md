@@ -19,7 +19,6 @@ GrowStack is a luxury, high-end landing page concept for a premium digital growt
 
 - `index.html` - Primary landing page markup and inline scripts
 - `style.css` - Custom styles for the landing page design
-- `stitch_code.html` - Alternate page variant using Tailwind CSS for a similar luxury brand experience
 - `images/hero.png` - Hero visual asset
 - `images/service.png` - Service section visual asset
 
